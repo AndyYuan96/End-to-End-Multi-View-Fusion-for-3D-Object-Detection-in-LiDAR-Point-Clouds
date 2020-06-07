@@ -36,4 +36,4 @@ aos  AP:90.72, 89.77, 88.52
 
 ## NOTE
 
-​	As paper don't say too much about voxelization in perspective view, I just implementation according to my understanding. and The result is a little lower than paper. For the resolution of perspective view, too small(16,64) or too large(64, 512) don't get good result, (16, 128) is relatively good. 
+​	As paper don't say too much about voxelization in perspective view, I just implementation according to my understanding, and the result is a little lower than paper. For the resolution of perspective view, too small(16,64) or too large(64, 512) don't get good result, (16, 128) is relatively good. 
